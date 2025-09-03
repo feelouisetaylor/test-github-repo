@@ -1,3 +1,4 @@
+
 # test-github-repo
 
 ## About Me
@@ -9,4 +10,14 @@ I have done markdown before on GitLab, I think I remember most of it, but lets h
 - I can remember to make ~~bold~~ *italics*
 - I think **bold** is 2 *
 
+- [X] tick boxes
+- [ ] yay
+
+:clown_face:
+
+:hugs:
+
+:cupid:
+
+:hugs:
 
